@@ -1,0 +1,5 @@
+com/wsy/study/NewRpcServer.class
+com/wsy/study/App.class
+com/wsy/study/HelloServiceImpl.class
+com/wsy/study/ProcessorHandler.class
+com/wsy/study/RpcProxyServer.class
